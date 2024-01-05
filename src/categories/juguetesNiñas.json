@@ -1,0 +1,265 @@
+[
+    {
+        "name": "muñecas coleccionables y accesorios",
+        "data": [
+            {
+                "modelo": "SKETCHES",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053129/mauri/529e28d3-9c4b-4c55-bf6c-430f20b6e53e_nopzea.jpg",
+                "marca": "LOL O.M.G",
+                "precio": 500
+            },
+            {
+                "modelo": "RUNWAY.DIVA",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053125/mauri/ea936102-3985-490b-81ca-5c09fa48103a_nvesdx.jpg",
+                "marca": "LOL O.M.G",
+                "precio": 560
+            },
+            {
+                "modelo": "Shadow High",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053125/mauri/50e584b3-486a-4062-9c86-7433889286de_ikqree.jpg",
+                "marca": "O.M.G",
+                "precio": 500
+            },
+            {
+                "modelo": "Rainbow High",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053067/mauri/d23fba7f-1545-4f50-8cc8-7b66a89dfdbf_pbhbxv.jpg",
+                "marca": "O.M.G",
+                "precio": 500
+            }
+        ]
+    },
+    {
+        "name": "barbies",
+        "data": [
+            {
+                "modelo": "Skipper Babysitter inc.",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053138/mauri/13952d8f-1a95-4e39-b28a-86e11a3d2449_xr1oyc.jpg",
+                "marca": "MATTEL",
+                "precio": 300
+            },
+            {
+                "modelo": "Chelsea the Lost Birthday",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053135/mauri/9214165a-6905-4f75-a5c2-80f12d8b75e9_x0klqo.jpg",
+                "marca": "MATTEL",
+                "precio": 300
+            },
+            {
+                "modelo": "FASHIONISTA",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053134/mauri/d499c339-b88d-434e-a126-09d62f042b97_h6llll.jpg",
+                "marca": "MATTEL",
+                "precio": 180
+            },
+            {
+                "modelo": "FASHIONISTA",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053134/mauri/24c44fe3-53be-45e1-96fa-c2ccf2aea13c_xueggs.jpg",
+                "marca": "MATTEL",
+                "precio": 180
+            },
+            {
+                "modelo": "Barbie EXTRA",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052924/mauri/00d6c637-09b7-4eb1-b4a6-481a33dfe555_zqt6to.jpg",
+                "marca": "MATTEL",
+                "precio": 250
+            },
+            {
+                "modelo": "Barbie EXTRA Silla de ruedas",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052868/mauri/8f4cb66f-78cc-4739-9d0a-7eafcc098bee_i0vdtm.jpg",
+                "marca": "MATTEL",
+                "precio": 300
+            },
+            {
+                "modelo": "Barbie accesorio JEEP",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052773/mauri/77586525-9695-4132-86d0-a5d427700807_o1uvn7.jpg",
+                "marca": "MATTEL",
+                "precio": 500
+            },
+            {
+                "modelo": "Barbie jet ski",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052773/mauri/daeafc18-2160-4de0-bc42-240ca777255e_ttmqnp.jpg",
+                "marca": "MATTEL",
+                "precio": 600
+            }
+        ]
+    },
+    {
+        "name": "disney",
+        "data": [
+            {
+                "modelo": "Disney descendientes",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052981/mauri/a99e19a5-a278-46d5-baf4-3c33d678f9fe_jgopqr.jpg",
+                "marca": "DISNEY",
+                "precio": 300
+            },
+            {
+                "modelo": "Disney princess",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052864/mauri/f86db3a4-591f-4735-9757-12d42090711d_rnrpyk.jpg",
+                "marca": "DISNEY",
+                "precio": 300
+            },
+            {
+                "modelo": "Disney FROZEN",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052952/mauri/d51cfa00-b005-48a3-8781-1d7b3816f4ab_b8iojj.jpg",
+                "marca": "DISNEY",
+                "precio": 300
+            },
+            {
+                "modelo": "Disney sirenita",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053129/mauri/767e070c-1548-4764-9a94-f22d5acd356b_gj76jk.jpg",
+                "marca": "DISNEY",
+                "precio": 280
+            }
+        ]
+    },
+    {
+        "name": "muñecas bebe",
+        "data": [
+            {
+                "modelo": "BEBE YALA BABY",
+                "precio": 380
+            },
+            {
+                "modelo": "BABY ALIVE",
+                "precio": 500
+            },
+            {
+                "modelo": "BABY ALIVE",
+                "precio": 500
+            },
+            {
+                "modelo": "Grows up",
+                "marca": "BABY ALIVE",
+                "precio": 780
+            }
+        ]
+    },
+    {
+        "name": "peluches",
+        "data": [
+            {
+                "modelo": "CERDITO ASTRONAUTA",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053129/mauri/8859770f-e738-4ffd-a203-fbdac192e6f9_qv8naf.jpg",
+                "precio": 40
+            },
+            {
+                "modelo": "POLLITO",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052773/mauri/e8a4ae58-698b-4b9d-bc58-37091940b4e4_auupxs.jpg",
+                "precio": 50
+            },
+            {
+                "modelo": "CONEJO CON CANGURO",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053129/mauri/767e070c-1548-4764-9a94-f22d5acd356b_gj76jk.jpg",
+                "precio": 70
+            },
+            {
+                "modelo": "OSITO GRADUADO/",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052773/mauri/b9de7601-28e7-4c9c-aadb-60d0e06154b5_r3frbv.jpg",
+                "precio": 60
+            },
+            {
+                "modelo": "PELUCHE ELEFANTE",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052773/mauri/38b30a4a-15b3-4489-a8fb-5a009eb201c9_cpdu6n.jpg",
+                "precio": 70
+            },
+            {
+                "modelo": "PELUCHE MONO CON GORRA DE BANANA",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053129/mauri/32386d94-52f4-4803-9fa3-6f587a357b9d_kr5jkx.jpg",
+                "precio": 70
+            },
+            {
+                "modelo": "PELUCHE DE ARDILLA",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053130/mauri/b75600dd-b051-458a-a698-f283cab166dc_ya1anu.jpg",
+                "precio": 70
+            },
+            {
+                "modelo": "PELUCHE LOBO CON PIJAMA",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053130/mauri/ca25c4f9-88ba-4918-b5ff-49f5003ad3ca_wd4oeb.jpg",
+                "precio": 90
+            },
+            {
+                "modelo": "PELUCHE ERES LO + MÁS IMPORTANTE",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053135/mauri/d2e186e8-6459-42c6-9402-6ef9e20be973_kfreip.jpg",
+                "precio": 70
+            },
+            {
+                "modelo": "PELUCHE DE UNICORNIO",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053129/mauri/767e070c-1548-4764-9a94-f22d5acd356b_gj76jk.jpg",
+                "precio": 100
+            },
+            {
+                "modelo": "PELUCHE GARFIELD",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053134/mauri/43220b0d-9940-4440-ac18-59222dee6892_gv7e9m.jpg",
+                "precio": 100
+            }
+        ]
+    },
+    {
+        "name": "bebes en etapa de crecimiento",
+        "data": [
+            {
+                "modelo": "camara",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052789/mauri/695b444f-b985-4995-bed6-5f1bb20ff901_a1mpqs.jpg",
+                "marca": "Fisher price",
+                "precio": 300
+            },
+            {
+                "modelo": "painter toy",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053129/mauri/767e070c-1548-4764-9a94-f22d5acd356b_gj76jk.jpg",
+                "marca": "fisher price",
+                "precio": 500
+            },
+            {
+                "modelo": "peluche oruga mis primeras palabras",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053129/mauri/767e070c-1548-4764-9a94-f22d5acd356b_gj76jk.jpg",
+                "marca": "Fisher price",
+                "precio": 450
+            },
+            {
+                "modelo": "sonajeras",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052863/mauri/46c34513-5d0c-4e99-9064-f088ac4d3dd8_ilnxyx.jpg",
+                "marca": "BABY teethers",
+                "precio": 180
+            },
+            {
+                "modelo": "carrusel",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052818/mauri/9a91da5a-1818-43cb-ad15-b757844ed7ab_xt6hhb.jpg",
+                "precio": 100
+            },
+            {
+                "modelo": "SPIN X SLIDE DJ PANDA",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052788/mauri/ec7b666e-cc5c-4a40-bd68-d2070af63fd4_i24dj2.jpg",
+                "marca": "Fisher price",
+                "precio": 300
+            },
+            {
+                "modelo": "TELEFONO",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052788/mauri/a87078a8-d0a3-4de1-bd66-44da61dd8b82_tcg8fr.jpg",
+                "precio": 90
+            }
+        ]
+    },
+    {
+        "name": "simulaciones",
+        "data": [
+            {
+                "modelo": "Kitchen set",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052784/mauri/11ac26f3-152a-44c7-aac8-98a7086cb1b9_beaikk.jpg",
+                "precio": 280
+            },
+            {
+                "modelo": "kitchen Appliances suit",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052784/mauri/abf0eb52-d8bc-4ebf-948a-84f8681754ac_uaatxn.jpg",
+                "precio": 350
+            },
+            {
+                "modelo": "PET SET",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052776/mauri/bca9ab4e-b3f8-4e50-8753-2a8962688311_vn6miy.jpg",
+                "precio": 350
+            },
+            {
+                "modelo": "ICE CREAM SHOP",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052774/mauri/e804a011-351e-40ff-a719-428f14a1ff6f_p2749h.jpg",
+                "precio": 350
+            }
+        ]
+    }
+]

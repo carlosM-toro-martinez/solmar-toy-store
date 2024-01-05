@@ -1,0 +1,218 @@
+[
+    {
+        "name": "shooting o de disparo",
+        "data": [
+            {
+                "modelo": "BLAZE STORM - SOFTBALL GUM",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053114/mauri/c5a0b556-9d35-44d3-85e8-fe486c981e72_t7xhit.jpg",
+                "marca": "LOL O.M.G",
+                "precio": 500
+            },
+            {
+                "modelo": "Nerf-ROBLOX MM2",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053120/mauri/dcd478a6-5fb5-4bc5-94d3-e9aea1847be3_gzbznm.jpg",
+                "marca": "LOL O.M.G",
+                "precio": 560
+            },
+            {
+                "modelo": "Xyl Hot - Selling MP5K series automatica",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053114/mauri/0e8d0083-453d-42ec-915b-e2d8bc8cea44_epxtzo.jpg",
+                "marca": "O.M.G",
+                "precio": 500
+            },
+            {
+                "modelo": "ZURU Xshot(skins)-FLUXNINJAXGRAFFITI",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053114/mauri/99cc950c-c780-424a-9c5f-6f34ff2d6be9_bviybr.jpg",
+                "marca": "O.M.G",
+                "precio": 500
+            },
+            {
+                "modelo": "ZURU Xshot (skins)-GRIEFER-GRAFFITI",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053115/mauri/1e257843-4ac1-4b7e-98ee-e9357149a567_j47uv3.jpg",
+                "marca": "O.M.G",
+                "precio": 500
+            }
+        ]
+    },
+    {
+        "name": "autos a control remoto",
+        "data": [
+            {
+                "modelo": "tank fight",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053108/mauri/c8699e39-341d-4738-8cd5-1834b933cfe4_nibgjo.jpg",
+                "marca": "KOENI",
+                "precio": 450
+            },
+            {
+                "modelo": "FPV HIGH SPEED",
+                "marca": "ROVER",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053107/mauri/ad670dc3-0d4e-42df-9d05-b44efbc63c09_r3yjs6.jpg",
+                "precio": 350
+            },
+            {
+                "modelo": "Smart driving - MONSTER TRUCK",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053125/mauri/6b00e5bf-2030-40aa-9b9b-92d27b045812_wclit3.jpg",
+                "marca": "MONSTER JAM",
+                "precio": 400
+            },
+            {
+                "modelo": "Deformation truck",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053107/mauri/07a839b3-9463-42c9-a6d5-5bcb38839f49_llbfss.jpg",
+                "marca": "JIAN XUN TOYS",
+                "precio": 380
+            }
+        ]
+    },
+    {
+        "name": "autos a escala",
+        "data": [
+            {
+                "modelo": "Serie autos clásicos de acero",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053107/mauri/a7fb6c43-e61b-4008-bf6f-d11812112140_la2ytb.jpg",
+                "marca": "TONKA",
+                "precio": 600
+            },
+            {
+                "modelo": "Pala y retroescabadora",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053124/mauri/8105e833-3bd4-4a89-9616-25f3baee2176_dyoa6b.jpg",
+                "marca": "DRIVEN",
+                "precio": 450
+            },
+            {
+                "modelo": "hotweels",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053107/mauri/b01de7b4-109d-476b-ae9e-b0a68a3e9319_uajjc4.jpg",
+                "marca": "hotwheels",
+                "precio": 30
+            },
+            {
+                "modelo": "simulation car",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704053107/mauri/569a944a-2ed9-432c-ae8a-7d7ee4ba840d_rr3ai6.jpg",
+                "marca": "MODELS FUN"
+            }
+        ]
+    },
+    {
+        "name": "coleccionable",
+        "data": [
+            {
+                "modelo": "Baby Yoda",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704400350/mauri/baby_yoda_ndmqk8.jpg",
+                "marca": "STARWARS",
+                "precio": 580
+            },
+            {
+                "modelo": "Stomtrooper",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704400350/mauri/stomtrooper_k8lrqz.jpg",
+                "marca": "STARWARS",
+                "precio": 300
+            },
+            {
+                "modelo": "Maestro Yoda",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052864/mauri/2e039800-55b8-4299-a2bc-3a81475cc2b4_smfktg.jpg",
+                "marca": "STARWARS",
+                "precio": 600
+            },
+            {
+                "modelo": "Avenger infinity war",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704400349/mauri/avengers_infinity_war_rmieqa.jpg",
+                "marca": "Mattel",
+                "precio": 280
+            },
+            {
+                "modelo": "TOY STORY",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704400350/mauri/toy_story_zsmrd6.jpg",
+                "marca": "Hasbro",
+                "precio": 380
+            },
+            {
+                "modelo": "FAST & FURIOUS",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704400350/mauri/FAST_AND_FURIOUS_wsfinq.jpg",
+                "marca": "Mattel",
+                "precio": 300
+            }
+        ]
+    },
+    {
+        "name": "juegos de mesa",
+        "data": [
+            {
+                "modelo": "MONOPOLY",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704400635/mauri/Monopoly_fmcbbs.jpg",
+                "marca": "HASBRO",
+                "precio": 300
+            },
+            {
+                "modelo": "BANCO INMOBILIARIO",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704400819/mauri/SCRABBLE_qnakar.jpg",
+                "marca": "ESTRELA",
+                "precio": 240
+            },
+            {
+                "modelo": "JENGA",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052773/mauri/5d5def1a-44a4-424c-907c-7b7b1a05a181_b6mht2.jpg",
+                "marca": "HASBRO",
+                "precio": 150
+            },
+            {
+                "modelo": "UNO",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052773/mauri/865ae706-da19-4c60-b3f5-d7abec4abd7c_kh0mfw.jpg",
+                "marca": "Mattel",
+                "precio": 100
+            },
+            {
+                "modelo": "Ajedrez",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052773/mauri/906c68b7-879b-4327-bb25-d31fafa80d7f_eindxg.jpg",
+                "marca": "GAMELAND",
+                "precio": 300
+            }
+        ]
+    },
+    {
+        "name": "construccion y manualidades",
+        "data": [
+            {
+                "modelo": "METAL MODELS",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052788/mauri/5c7b24b9-896d-428e-80cc-ea33b5295e36_jsxtg0.jpg",
+                "marca": "DIY METAL",
+                "precio": 200
+            },
+            {
+                "modelo": "LEGO ROBLOX",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052781/mauri/944ea15d-0fb0-4449-8b16-207678f1d856_njfuuz.jpg",
+                "marca": "LEGO",
+                "precio": 280
+            },
+            {
+                "modelo": "fisher price peluqueria",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052785/mauri/244e03d2-0272-4c03-9437-204baa0cd3e7_m5jlyh.jpg",
+                "precio": 280
+            },
+            {
+                "modelo": "TROLLS",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052788/mauri/6a583b6d-2418-4117-9f7b-7748f3702729_nkdoju.jpg",
+                "marca": "PLAYDOH",
+                "precio": 300
+            }
+        ]
+    },
+    {
+        "name": "simulaciones",
+        "data": [
+            {
+                "modelo": "TOULS",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052785/mauri/da7493d6-be6a-4f89-85ac-4f2acdb9355c_wb2xpk.jpg",
+                "precio": 350
+            },
+            {
+                "modelo": "CONSTRUCCION",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052788/mauri/6a583b6d-2418-4117-9f7b-7748f3702729_nkdoju.jpg",
+                "precio": 350
+            },
+            {
+                "modelo": "UFO",
+                "image": "https://res.cloudinary.com/potosi/image/upload/v1704052846/mauri/8b2b10bc-453a-4a28-8742-d09d25402c01_dcsgej.jpg",
+                "precio": 350
+            }
+        ]
+    }
+]
