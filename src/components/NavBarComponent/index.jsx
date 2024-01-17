@@ -18,11 +18,8 @@ function NavBarComponent() {
                     <Link to="/" className={clasess.button}>
                         Inicio
                     </Link>
-                    <Link to="/productos" className={clasess.button}>
-                        Productos
-                    </Link>
-                    <Link to="/blog" className={clasess.button}>
-                        Blog
+                    <Link to="/contact" className={clasess.button}>
+                        Contactos
                     </Link>
                     <Link to="/quienes-somos" className={clasess.button}>
                         Quienes Somos

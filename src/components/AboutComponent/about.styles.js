@@ -4,8 +4,14 @@ import mq from '../../config/mq';
 export const useStyles = makeStyles(theme => ({
     container: {
         display: 'flex',
+        flexDirection: 'column',
         justifyContent: 'space-between',
-        margin: '1.5rem'
+        margin: '.5rem',
+        [mq('md')]: {
+            flexDirection: 'row',
+            margin: '1.5rem',
+
+        }
     },
     button: {
         color: 'black',

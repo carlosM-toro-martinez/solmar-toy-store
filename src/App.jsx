@@ -3,6 +3,8 @@ import NavBarComponent from './components/NavBarComponent'
 import BodyComponent from './components/BodyComponent';
 import CarouselComponent from './components/CarouselComponent';
 import AboutComponent from './components/AboutComponent';
+import Contacts from './components/Contacts';
+import ProductCard from './components/BodyComponent/ListComponent/ProductCardComponent';
 
 function App() {
   return (
@@ -15,11 +17,13 @@ function App() {
           {/*
         <Footer /> */}
         </>} />
-        <Route path='/productos' element={<>
+        <Route path='/datails' element={<>
           <NavBarComponent />
+          <ProductCard />
         </>} />
-        <Route path='/blog' element={<>
+        <Route path='/contact' element={<>
           <NavBarComponent />
+          <Contacts />
         </>} />
         <Route path='/quienes-somos' element={<>
           <NavBarComponent />

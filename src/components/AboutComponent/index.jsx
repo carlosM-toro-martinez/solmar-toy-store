@@ -11,16 +11,36 @@ function BodyComponent() {
 
                 <img src={Logo} alt="logo" className={clasess.img} />
             </div>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
                 <Typography variant='h5' style={{ fontSize: '1.2rem' }} >
-                    Somos un e-commerce familiar dedicado a ofrecer una amplia variedad de juegos y juguetes para todas las edades. Desde nuestra tienda en línea, te invitamos a vivir la experiencia única de comprar de manera sencilla, fácil y rápida. Nos enorgullece ser tu opción de confianza para encontrar el regalo perfecto.
+                    Misión:
+                    En Juguetería Sol - Mar, nos dedicamos a brindar momentos de alegría y diversión a las familias potosinas, ofreciendo una amplia variedad de juguetes de alta calidad que estimulan el aprendizaje y el entretenimiento. Nos comprometemos a proporcionar un servicio excepcional y a ser el destino preferido para la comunidad, creando recuerdos inolvidables a través de experiencias de juego significativas.
                 </Typography>
                 <Typography variant='h5' style={{ fontSize: '1.2rem' }} >
-                    En Solmar Juguetería, la diversión está garantizada. Trabajamos con todos los medios de pago para brindarte la máxima comodidad en tus compras. Realizamos envíos a todo el país, llevando la alegría de nuestros juguetes a cada rincón. Cada pedido que recibimos es una oportunidad para sorprenderte y hacer que tu experiencia de compra sea inolvidable.
+                    Visión:
+                    Nos visualizamos como la juguetería líder en la ciudad de Potosí, reconocida por ofrecer la mejor selección de juguetes innovadores y educativos. Aspiramos a ser el referente en el mercado local, destacándonos por nuestra excelencia en el servicio al cliente, contribuyendo al desarrollo integral de los niños y siendo reconocidos como líderes en el rubro juguetero en el tiempo.
                 </Typography>
                 <Typography variant='h5' style={{ fontSize: '1.2rem' }} >
+                    Objetivos:
+                </Typography>
+                <Typography variant='h5' style={{ fontSize: '1.2rem' }} >
+                    -	Establecer canales efectivos de comunicación para proporcionar información detallada y precisa sobre productos, promociones y servicios, asegurando una experiencia informada y satisfactoria para cada cliente.
+                </Typography>
+                <Typography variant='h5' style={{ fontSize: '1.2rem' }} >
+                    -	Brindar un servicio al cliente excepcional que supere las expectativas, fomentando relaciones duraderas y positivas.
+                </Typography>
+                <Typography variant='h5' style={{ fontSize: '1.2rem' }} >
+                    -	Ofrecer una amplia gama de juguetes de alta calidad, innovadores y educativos que satisfagan las preferencias y necesidades de nuestros clientes.
+                </Typography>
+                <Typography variant='h5' style={{ fontSize: '1.2rem' }} >
+                    -	Convertirnos en la juguetería más elegida por la población potosina, consolidando nuestra posición como líderes en el mercado local.
+                </Typography>
+                <Typography variant='h5' style={{ fontSize: '1.2rem' }} >
+                    -	Proporcionar juguetes que promuevan el desarrollo integral de los niños, estimulando su creatividad, habilidades cognitivas y sociales.
+                </Typography>
+                {/* <Typography variant='h5' style={{ fontSize: '1.2rem' }} >
                     Nuestra pasión por los juegos y juguetes se refleja en la calidad de nuestro catálogo. Desde clásicos atemporales hasta las últimas novedades, ofrecemos una selección que se adapta a todos los gustos y preferencias. ¿Estás buscando el regalo perfecto? En Solmar Juguetería, cada compra es más que una transacción; es una grata sorpresa y la oportunidad de llevar la magia a un nuevo destino. ¡Vive la experiencia Solmar Juguetería y descubre el mundo del juego con nosotros!
-                </Typography>
+                </Typography> */}
             </div>
         </div>
     )
