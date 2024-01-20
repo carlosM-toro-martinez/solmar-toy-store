@@ -4,6 +4,7 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import PhoneIcon from '@mui/icons-material/Phone';
 import EmailIcon from '@mui/icons-material/Email';
+import RoomIcon from '@mui/icons-material/Room';
 
 function Contacts() {
     const abrirEnNuevaPestana = (url) => {
@@ -15,27 +16,33 @@ function Contacts() {
             <Container maxWidth="sm" style={{ textAlign: 'center', marginTop: '50px' }}>
                 <Grid container spacing={2}>
                     <Grid item xs={6}>
-                        <IconButton onClick={() => abrirEnNuevaPestana('https://api.whatsapp.com')}>
+                        <IconButton onClick={() => abrirEnNuevaPestana('https://wa.me/59174281211')}>
                             <WhatsAppIcon />
-                            <Typography>+591 78732181</Typography>
+                            <Typography>+591 74281211</Typography>
                         </IconButton>
                     </Grid>
                     <Grid item xs={6}>
-                        <IconButton onClick={() => abrirEnNuevaPestana('https://www.facebook.com')}>
+                        <IconButton onClick={() => abrirEnNuevaPestana('https://www.facebook.com/profile.php?id=61554999493779')}>
                             <FacebookIcon />
-                            <Typography>Solmar jugueteria</Typography>
+                            <Typography>Juguetería Solmar</Typography>
                         </IconButton>
                     </Grid>
                     <Grid item xs={6}>
-                        <IconButton onClick={() => abrirEnNuevaPestana('tel:+123456789')}>
+                        <IconButton>
                             <PhoneIcon />
-                            <Typography>+591 78732181</Typography>
+                            <Typography>+591 74281211</Typography>
                         </IconButton>
                     </Grid>
                     <Grid item xs={6}>
-                        <IconButton onClick={() => abrirEnNuevaPestana('mailto:correo@example.com')}>
+                        <IconButton onClick={() => abrirEnNuevaPestana('mailto:jugueteriasolmar@gmail.com')}>
                             <EmailIcon />
-                            <Typography>solmar_jugueteria@gmail.com</Typography>
+                            <Typography>jugueteriasolmar@gmail.com</Typography>
+                        </IconButton>
+                    </Grid>
+                    <Grid item xs={12}>
+                        <IconButton onClick={() => abrirEnNuevaPestana('https://www.google.com/maps/place/Bolivar+925,+Villa+Imperial+de+Potos%C3%AD/@-19.5875269,-65.7522012,21z/data=!4m6!3m5!1s0x93f94e7061e5e4d9:0x3209997317d3a498!8m2!3d-19.5874698!4d-65.7520111!16s%2Fg%2F11tnbgmfpn?entry=ttu')}>
+                            <RoomIcon />
+                            <Typography>Calle bolivar esquina simon chacon s/n</Typography>
                         </IconButton>
                     </Grid>
                 </Grid>
@@ -44,11 +51,11 @@ function Contacts() {
             <Container maxWidth="md" style={{ textAlign: 'center', marginTop: '50px' }}>
                 <Grid container spacing={1}>
                     <Grid item xs={4}>
-                        <Typography>Envíos GRATIS a todo el PAÍS en compras mayores a $50.000 • Envíos GRATIS en Junín (BA)</Typography>
+                        <Typography>Envíos GRATIS a todo el PAÍS en compras mayores a 300Bs • Envíos GRATIS en Junín (BA)</Typography>
                         <Divider orientation="vertical" style={{ margin: '0 10px' }} />
                     </Grid>
                     <Grid item xs={4}>
-                        <Typography>PAGÁ COMO QUIERAS Mercado Pago, GoCuotas, Wibond, Tarjetas de crédito, débito, transferencia y más!</Typography>
+                        <Typography>PAGÁ COMO QUIERAS Pago por QR, Tarjetas de crédito, débito, transferencia y más!</Typography>
                         <Divider orientation="vertical" style={{ margin: '0 10px' }} />
                     </Grid>
                     <Grid item xs={4}>

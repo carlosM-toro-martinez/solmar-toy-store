@@ -16,7 +16,7 @@ function NavBarComponent() {
                 </div>
                 <div className={clasess.container} >
                     <Link to="/" className={clasess.button}>
-                        Inicio
+                        Catálogo
                     </Link>
                     <Link to="/contact" className={clasess.button}>
                         Contactos
